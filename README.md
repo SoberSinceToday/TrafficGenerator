@@ -22,7 +22,7 @@ utils contains the file links.txt in which the basic links are recorded, chromed
 
 <h2>User manual:</h2>
 
-1) Open project and run pip install PyQt5 if u need this
+1) Open project and run pip install PyQt5 if u need this, install a ChromeDriver compatible with your version of Chrome, the repository has a driver for version 119.0.6045.106
 
 2) Customize links as u want using class Links from links.py
   
